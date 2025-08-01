@@ -67,7 +67,8 @@ The notebook includes:
 
 ```bash
 ├── dataset/
-│ └── eda-on-diabetes-dataset.ipynb 
+│ └── diabetes.csv
+├──   eda-on-diabetes-dataset.ipynb
 ├── README.md 
 └── requirements.txt 
 ```
