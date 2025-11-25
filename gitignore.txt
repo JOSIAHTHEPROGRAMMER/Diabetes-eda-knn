@@ -6,8 +6,6 @@ __pycache__/
 # C extensions
 *.so
 
-* linguist-vendored
-*.ipynb -diff
 
 # Distribution / packaging
 .Python
